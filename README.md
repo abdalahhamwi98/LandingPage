@@ -4,4 +4,4 @@
 https://abdalahhamwi.github.io/LandingPage/
 
 ### Project Screenshot
-![](https://github.com/abdalahhamwi/LandingPage/blob/main/screenshoot.png)
+![](https://abdalahhamwi98.github.io/LandingPage/)
