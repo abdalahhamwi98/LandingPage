@@ -1,7 +1,7 @@
 # LandingPage
 
 ### Project Demo 
-https://abdalahhamwi.github.io/LandingPage/
+https://abdalahhamwi98.github.io/LandingPage/
 
 ### Project Screenshot
-![]()
+![](https://abdalahhamwi98.github.io/LandingPage/)
